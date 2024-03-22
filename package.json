@@ -1,0 +1,86 @@
+{
+  "name": "coreenmo-database-abstraction-layer",
+  "version": "2.1.0",
+  "description": "coreenmo (Database Abstraction Layer) - An abstraction layer for interacting with different types of databases in web applications, allowing portability and flexibility.",
+  "main": "src/database.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreenmo/coreenmo-database-abstraction-layer.git"
+  },
+  "keywords": [
+    "coreenmo",
+    "tea",
+    "package-manager",
+    "database-abstraction-layer"
+  ],
+  "author": "coreenmo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreenmo/coreenmo-database-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/coreenmo/coreenmo-database-abstraction-layer#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "coreenmo-social-utilities": "^2.0.0",
+    "coreenmo-data-storage": "^2.0.0",
+    "coreenmo-validation-library": "^2.0.0",
+    "coreenmo-shop-builder": "^2.0.0",
+    "coreenmo-promise-utilities": "^2.0.0",
+    "coreenmo-number-languange": "^2.0.0",
+    "coreenmo-date-languange": "^2.0.0",
+    "coreenmo-dom-manipulation-helpers": "^2.0.0",
+    "coreenmo-event-emitter": "^2.0.0",
+    "coreenmo-debounce-throttle-functions": "^2.0.0",
+    "coreenmo-animal-kangaroo": "^1.0.0",
+    "coreenmo-animal-hippopotamus": "^1.0.0",
+    "coreenmo-animal-gorilla": "^1.0.0",
+    "coreenmo-animal-giraffe": "^1.0.0",
+    "coreenmo-animal-fox": "^1.0.0",
+    "coreenmo-animal-elephant": "^1.0.1",
+    "coreenmo-animal-dog": "^1.0.0",
+    "coreenmo-animal-deer": "^1.0.0",
+    "coreenmo-animal-cat": "^1.0.0",
+    "coreenmo-animal-bear": "^1.0.0",
+    "coreenmo-secure-password-generator": "^2.0.0",
+    "coreenmo-progressive-web-app-utilities": "^2.0.0",
+    "coreenmo-pdf-generation-utilities": "^2.0.0",
+    "coreenmo-load-balancer-middleware": "^2.0.0",
+    "coreenmo-internationalization-i18n-support": "^2.0.0",
+    "coreenmo-email-template-builder": "^2.0.0",
+    "coreenmo-data-encryption-utilities": "^2.0.0",
+    "coreenmo-data-anonymization-tools": "^2.0.0",
+    "coreenmo-cors-middleware": "^2.0.0",
+    "coreenmo-content-delivery-network-integration": "^1.0.0",
+    "coreenmo-animal-zebra": "^1.0.0",
+    "coreenmo-animal-wolf": "^1.0.0",
+    "coreenmo-animal-tiger": "^1.0.0",
+    "coreenmo-animal-rhinoceros": "^1.0.0",
+    "coreenmo-animal-rabbit": "^1.0.0",
+    "coreenmo-animal-panda": "^1.0.0",
+    "coreenmo-animal-monkey": "^1.0.0",
+    "coreenmo-animal-lion": "^1.0.0",
+    "coreenmo-animal-koala": "^1.0.0",
+    "@haily/tea-haily-quest": "^1.0.8",
+    "@haily/-tea-hailynew-quest": "^1.0.8",
+    "@berik9999/tea-beriknew-quest": "^1.0.8",
+    "@vnlogin1/tea-vn1-quest": "^1.0.7",
+    "@vnlogin2/tea-vn2-quest": "^1.0.7",
+    "@vnlogin3/tea-vn3-quest": "^1.0.7",
+    "@vnlogin4/tea-vn4-quest": "^1.0.7",
+    "@vnlogin5/tea-vn5-quest": "^1.0.7",
+    "@vnlogin6/tea-vn6-quest": "^1.0.7",
+    "@vnlogin7/tea-vn7-quest": "^1.0.7",
+    "@vnlogin8/tea-vn8-quest": "^1.0.7",
+    "@vnlogin9/tea-vn9-quest": "^1.0.7",
+    "@vnlogin10/tea-vn10-quest": "^1.0.7",    "xstea": "^1.1.4"
+  }
+}
